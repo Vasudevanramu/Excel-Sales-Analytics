@@ -3,9 +3,20 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a Customer Performance Report 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between Market Performance and sales target.
+
+    **3.** Create a Top 10 Produts Report by %
+
+    **4.** Create a Division level performance report
+
+    **5.** Create a report that shows new products introduced in 2021
+
+    **6.** Create a Top & Bottom 5 Countries by Net Sales.
+
+    **7.** Create a Top & Bottom 5 Products by Quantity.
+   
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
